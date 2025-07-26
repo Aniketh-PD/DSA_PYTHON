@@ -14,3 +14,4 @@
 3. Evaluate Reverse Polish Notation (https://neetcode.io/problems/evaluate-reverse-polish-notation?)
 4. Generate Parentheses (https://neetcode.io/problems/generate-parentheses?list=neetcode150)
 5. Daily Temperatures (https://neetcode.io/problems/daily-temperatures)
+6. Car Fleet (https://neetcode.io/problems/car-fleet?list=neetcode150)
