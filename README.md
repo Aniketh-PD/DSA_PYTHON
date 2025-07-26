@@ -8,3 +8,8 @@
 6. Encode and Decode Strings (https://neetcode.io/problems/string-encode-and-decode)
 7. Longest Consecutive Sequence (https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode150)
 8. ValidSudoku (https://neetcode.io/problems/valid-sudoku)
+## Stack
+1. Valid Parenthesis (https://neetcode.io/problems/validate-parentheses?list=neetcode150)
+2. Minimum Stack (https://neetcode.io/problems/minimum-stack)
+3. Evaluate Reverse Polish Notation (https://neetcode.io/problems/evaluate-reverse-polish-notation?)
+4. Generate Parentheses (https://neetcode.io/problems/generate-parentheses?list=neetcode150)
