@@ -30,3 +30,5 @@
 4. Find Minimum in Rotated Sorted Array (https://neetcode.io/problems/find-minimum-in-rotated-sorted-array)
 5. Search in Rotated Sorted Array (https://neetcode.io/problems/find-target-in-rotated-sorted-array)
 6. Time Based Key-Value Store (https://neetcode.io/problems/time-based-key-value-store)
+## Sliding Window
+1. Best Time to Buy and Sell Stock(https://neetcode.io/problems/buy-and-sell-crypto)

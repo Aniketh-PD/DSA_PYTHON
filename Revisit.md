@@ -4,3 +4,4 @@ REVISIT THE FOLLOWING PROBLEMS
 3. Koko Eating Bananas (https://neetcode.io/problems/eating-bananas?list=neetcode150)
 4. Find Minimum in Rotated Sorted Array (https://neetcode.io/problems/find-minimum-in-rotated-sorted-array?list=neetcode150)
 5. Search in Rotated Sorted Array (https://neetcode.io/problems/find-target-in-rotated-sorted-array)
+6. Best Time to Buy and Sell Stock (https://neetcode.io/problems/buy-and-sell-crypto)
